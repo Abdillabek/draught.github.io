@@ -3,6 +3,9 @@ body {
   font-size: 16px;
 }
 
+a {
+  text-decoration: none;
+}
 
 .tools {
   background-color: cornsilk;
@@ -37,4 +40,32 @@ body {
   width: 264px;
   margin-right: 30px;
   background-color: darkgray;
+}
+
+.con {
+  background-color: #fff8dc;
+}
+
+.name-product {
+  font-size: 16px;
+  color: black;
+  font-weight: 400;
+  padding-left: 80px;
+}
+
+.button {
+  font-weight: bold;
+  font-size: 18px;
+  color: #000000;
+  text-align: center;
+}
+
+.buy {
+  padding: 20px;
+  color: #23bac1;
+  font-weight: bold;
+  display: inline-block;
+  border: 1px solid #23bac1;
+  text-align: center;
+  margin-left: 79px;
 }
