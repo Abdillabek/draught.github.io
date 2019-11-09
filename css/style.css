@@ -18,6 +18,10 @@ a {
       flex-wrap: wrap;
 }
 
+.tool {
+  background-color: rgb(209, 173, 27);
+}
+
 .tools h2 {
   font-size: 36px;
   font-weight: 400;
